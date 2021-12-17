@@ -1,0 +1,38 @@
+body{
+  font-family: 20px Roboto, Arial, sans-serif;
+}
+
+.navbar{
+  background-color: #2ECC71;
+}
+
+.quem-somos{
+  background-color: #3498DB;
+}
+
+.margin{
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+h3{
+  padding: 10px;
+  text-align: center;
+  font-family: 30px Montserrat, Arial, sans-serif;
+}
+
+.parceiros{
+  background-color: #2ECC71;
+  text-align: justify;
+}
+
+.servicos{
+  text-align: justify;
+  background-color: #3498DB;
+}
+
+footer p{
+  background-color: #2ECC71;
+  font-size: 30px;
+  padding: 20px;
+}
